@@ -1,101 +1,101 @@
-# 🐼 NumPy + Pandas for Data Science
+# 🐼 NumPy + Pandas Foundations for Data Science
 
-A structured learning and implementation repository covering NumPy and Pandas from fundamentals to real-world data analysis.
+A structured, hands-on repository documenting my journey of mastering core data science tools used in real-world machine learning pipelines.
 
 ---
 
 ## 📌 About
 
-This repository documents my journey of mastering core data science libraries:
+This repository focuses on building strong foundations in:
 
-- NumPy → numerical computing foundation
-- Pandas → data analysis and manipulation
+* **NumPy** → numerical computing and array operations
+* **Pandas** → data analysis, cleaning, and transformation
 
-Built as part of my B.Tech AI & Data Science journey at NMIMS Navi Mumbai.
+Developed as part of my B.Tech AI & Data Science journey at NMIMS Navi Mumbai.
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 notebooks/
-   numpy_guide.ipynb
-   pandas_guide.ipynb
+  numpy_guide.ipynb → Core NumPy concepts and applications
+  pandas_guide.ipynb → Data analysis and manipulation
 
 datasets/
-   sample datasets for analysis
+  Sample datasets for real-world practice
 
 outputs/
-   results and screenshots
+  Screenshots and processed results
 
 ---
 
-## 🚀 What This Repository Covers
+## 🚀 Key Concepts Covered
 
 ### NumPy
-- Array operations
-- Broadcasting
-- Indexing & slicing
-- Mathematical & statistical functions
-- Real-world applications
+
+* Array creation and operations
+* Broadcasting
+* Indexing and slicing
+* Statistical and mathematical functions
+* Real-world applications
 
 ### Pandas
-- DataFrames & Series
-- Data cleaning & preprocessing
-- Filtering & sorting
-- GroupBy & aggregation
-- Merging & joins
-- Real-world datasets
+
+* Series and DataFrames
+* Data cleaning and preprocessing
+* Filtering and sorting
+* GroupBy and aggregation
+* Merging and joins
+* Handling missing values
 
 ---
 
-## 🧠 Key Skills Developed
+## 🧠 Skills Developed
 
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Handling missing data
-- Feature engineering basics
-- Efficient data manipulation using Pandas
-
----
-
-## 📊 Real-World Applications
-
-- Student performance analysis
-- Sales data analysis
-- Sensor anomaly detection
-- E-commerce data insights (in progress)
+* Data preprocessing for machine learning
+* Exploratory data analysis (EDA)
+* Efficient data manipulation
+* Logical problem solving using Python
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Applications Implemented
 
-- Python
-- NumPy
-- Pandas
-- Jupyter Notebook
+* Student performance analysis
+* Sales data analysis
+* Sensor anomaly detection
 
 ---
 
 ## 📈 Learning Approach
 
-- Daily practice (10+ concepts/day)
-- Hands-on implementation
-- Real-world problem solving
-- Clean and structured code
+* Daily structured practice
+* Concept-first learning
+* Real-world implementation
+* Clean and readable code
 
 ---
 
 ## 🎯 Next Steps
 
-- Data visualization (Matplotlib, Seaborn)
-- Machine Learning (Scikit-learn)
-- End-to-end data projects
+* Data visualization (Matplotlib, Seaborn)
+* Machine Learning (Scikit-learn)
+* End-to-end data projects
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* NumPy
+* Pandas
+* Jupyter Notebook
 
 ---
 
 ## 📬 Connect
 
-LinkedIn: https://www.linkedin.com/in/tuvya-algotar-8b4b07374/  
+LinkedIn: https://www.linkedin.com/in/tuvya-algotar-8b4b07374/
 GitHub: https://github.com/tuvya-algotar
 
 ---
