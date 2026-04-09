@@ -1,116 +1,103 @@
-# 🔢 NumPy Fundamentals - Complete Learning Portfolio
+# 🐼 NumPy + Pandas for Data Science
 
-Deep dive into NumPy for Data Science and Machine Learning applications.
-
----
-
-## 📌 About This Project
-
-**Author:** Tuvya Algotar  
-**Institution:** NMIMS Navi Mumbai | B.Tech AI & Data Science (First Year)  
-**Date:** March 2026  
-**Goal:** Master NumPy as foundation for ML Engineering career  
+A structured learning and implementation repository covering NumPy and Pandas from fundamentals to real-world data analysis.
 
 ---
 
-## 📚 What's Inside
+## 📌 About
 
-1. Array Creation
-2. Array Operations
-3. Indexing & Slicing
-4. Aggregation Functions
-5. Boolean Masking
-6. Broadcasting
-7. Real World Applications
-   - Sales Business Analyzer
-   - Student Report Card Analyzer
-   - Sensor Anomaly Detection
+This repository documents my journey of mastering core data science libraries:
+
+- NumPy → numerical computing foundation
+- Pandas → data analysis and manipulation
+
+Built as part of my B.Tech AI & Data Science journey at NMIMS Navi Mumbai.
 
 ---
 
-## 🛠️ Technologies
+## 📁 Project Structure
 
-- **Python:** 3.x
-- **NumPy:** 1.24+
-- **Jupyter Notebook**
+notebooks/
+   numpy_guide.ipynb
+   pandas_guide.ipynb
 
----
+datasets/
+   sample datasets for analysis
 
-## 🚀 Key Learnings
-
-1. **Performance:** NumPy arrays are 10-50x faster than Python lists
-2. **Broadcasting:** Operations on different-shaped arrays
-3. **Axis operations:** Critical for ML (axis=0 vs axis=1)
-4. **Real-world ready:** Applied to actual business problems
+outputs/
+   results and screenshots
 
 ---
 
-## 📊 Highlights
+## 🚀 What This Repository Covers
 
-   - Sales Business Analyzer
-   - Student Report Card Analyzer
-   - Sensor Anomaly Detection
+### NumPy
+- Array operations
+- Broadcasting
+- Indexing & slicing
+- Mathematical & statistical functions
+- Real-world applications
 
----
-
-## 💡 Why This Matters
-
-NumPy is the foundation for:
-- **Pandas** (built on NumPy)
-- **Scikit-learn** (uses NumPy arrays)
-- **TensorFlow/PyTorch** (inspired by NumPy)
-
-Mastering NumPy = First step toward ML Engineering.
-
----
-
-## 🎓 Learning Path
-
-**Completed:**
-- [x] NumPy fundamentals
-
-**Next Steps:**
-- [ ] Pandas (data manipulation)
-- [ ] Matplotlib (visualization)
-- [ ] Scikit-learn (classical ML)
-- [ ] TensorFlow/PyTorch (deep learning)
+### Pandas
+- DataFrames & Series
+- Data cleaning & preprocessing
+- Filtering & sorting
+- GroupBy & aggregation
+- Merging & joins
+- Real-world datasets
 
 ---
 
-## 📖 How to Use
+## 🧠 Key Skills Developed
 
-1. Clone repository:
-```bash
-   git clone https://github.com/tuvya-algotar/numpy-fundamentals-portfolio.git
-```
-
-2. Install dependencies:
-```bash
-   pip install numpy jupyter
-```
-
-3. Run Jupyter:
-```bash
-   jupyter notebook NumPy_Complete_Guide.ipynb
-```
-
-4. Execute cells sequentially
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Handling missing data
+- Feature engineering basics
+- Efficient data manipulation using Pandas
 
 ---
 
-## 🙏 Acknowledgments
+## 📊 Real-World Applications
 
-- NumPy Documentation
-- Keith Galli (YouTube tutorials)
-- 3Blue1Brown (visual math)
-- Andrew Ng (ML course inspiration)
+- Student performance analysis
+- Sales data analysis
+- Sensor anomaly detection
+- E-commerce data insights (in progress)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
+
+---
+
+## 📈 Learning Approach
+
+- Daily practice (10+ concepts/day)
+- Hands-on implementation
+- Real-world problem solving
+- Clean and structured code
+
+---
+
+## 🎯 Next Steps
+
+- Data visualization (Matplotlib, Seaborn)
+- Machine Learning (Scikit-learn)
+- End-to-end data projects
 
 ---
 
 ## 📬 Connect
 
-- **LinkedIn:** [Tuvya Algotar](https://www.linkedin.com/in/tuvya-algotar-8b4b07374/)
-- **GitHub:** [@tuvya-algotar](https://github.com/tuvya-algotar)
-- **Email:** tuvyaalgotar@gmail.com
+LinkedIn: https://www.linkedin.com/in/tuvya-algotar-8b4b07374/  
+GitHub: https://github.com/tuvya-algotar
 
-⭐ **Star this repo if you found it helpful!**
+---
+
+⭐ Star this repo if you found it useful
